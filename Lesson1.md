@@ -6,11 +6,11 @@ A] MIRRORS ( adjustments)
 - Back door handle 
 
 ## Right 
-
+- Front door hanndle 
 
 ## Centre
 
-
+- Full horizon
 
 
 B] Pre Drive Check 
