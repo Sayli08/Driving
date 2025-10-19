@@ -1,5 +1,5 @@
 
-A] MIRRORS ( adjustments)
+# A] MIRRORS ( adjustments)
 
 ## Left
 
@@ -13,7 +13,7 @@ A] MIRRORS ( adjustments)
 - Full horizon
 
 
-B] Pre Drive Check 
+# B] Pre Drive Check 
 
 i)   HeadLights
 ii)  Signal lights
@@ -24,7 +24,7 @@ vi ) Emegency Parking brake
 
 
 
-C] Lane Chage 
+# C] Lane Chage 
 
 
 Common rule for Lane change
@@ -41,9 +41,9 @@ STEPS
 
 4] Change the lane 
 
-I] Left LAne 
+### I] Left LAne 
 
-2] Right Lane 
+### 2] Right Lane 
 
 
 
