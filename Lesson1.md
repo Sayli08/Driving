@@ -10,7 +10,7 @@
 
 ## Centre
 
-- Full horizon
+- windshield ( not the head rest)
 
 
 # B] Pre Drive Check 
